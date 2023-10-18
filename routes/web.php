@@ -28,3 +28,6 @@ Route::get('/cart', function () {
 Route::get('/wishlist', function () {
     return view('wishlist');
 })->name('wishlist');
+Route::get('/user', function () {
+    return view('user');
+})->name('user');

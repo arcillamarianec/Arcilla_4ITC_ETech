@@ -2,7 +2,7 @@
 
 <body>
 
-    <h2>Cart</h2>
+    <h2 class="cent">User Profile</h2>
 
 </body>
 

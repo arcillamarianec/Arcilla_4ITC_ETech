@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-    <title>Contact</title>
-</head>
+@include('navbar')
 
 <body>
 
